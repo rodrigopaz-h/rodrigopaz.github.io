@@ -14,6 +14,6 @@ pull request
 2. https://github.com/rmedinacl/rmedinacl.github.io/pull/4
 
 
-   "1." Compañero ChokkanBonsai
-   
-   "1." Compañero rmedinacl
+id:
+"1." Compañero ChokkanBonsai
+"2." Compañero rmedinacl
